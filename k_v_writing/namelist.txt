@@ -1,0 +1,2 @@
+maharashtra=mumbai
+india=delhi

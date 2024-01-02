@@ -1,0 +1,22 @@
+{
+  "simple_tense": {
+    "He is my friend": "He is my friend",
+    "He has been my friend since childhood": "He has been my friend since childhood",
+    "He has been a teacher for 3 years": "He has been a teacher for 3 years",
+    "She is not my friend": "She is not my friend",
+    "She has not been my friend since childhood.": "She has not been my friend since childhood.",
+    "He was my friend": "He was my friend",
+    "Raman has a car": "Raman has a car",
+    "Raman has had a car for 2 years": "Raman has had a car for 2 years",
+    "Raman does not have a car": "Raman does not have a car",
+    "I had time": "I had time",
+    "I do not have time": "I do not have time",
+    "I have been busy since morning": "I have been busy since morning",
+    "I had had a car for two days": "I had had a car for two days",
+    "I have had this for 2 days": "I have had this for 2 days",
+    "I had had this bottle for 2 days": "I had had this bottle for 2 days",
+    "I will have had this bottle for 2 days": "I will have had this bottle for 2 days",
+    "I had no time": "I had no time",
+    "I have been waiting for you for 2 hours": "I have been waiting for you for 2 hours"
+  }
+}
